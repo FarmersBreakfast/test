@@ -117,7 +117,7 @@ article {
     }
   }
   
-  @container card (min-width: 400px) {
+  @container card (min-width: 380px) {
     .article-wrapper {
       display: grid;
       grid-template-columns: 100px 1fr;
